@@ -1,0 +1,23 @@
+{
+  "name": "my-first-node-project",
+  "version": "1.0.0",
+  "description": "a simple node project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikima/my-first-node-project.git"
+  },
+  "author": "michele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikima/my-first-node-project/issues"
+  },
+  "homepage": "https://github.com/mikima/my-first-node-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
