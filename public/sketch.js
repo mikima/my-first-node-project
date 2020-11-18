@@ -8,7 +8,7 @@ socket.on("newPlayer", newPlayer);
 
 function newPlayer(newPlayerColor) {
   console.log(newPlayerColor);
-
+  // welcome
   push();
   fill("purple");
   rectMode(CENTER);
